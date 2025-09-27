@@ -1,15 +1,16 @@
-# Unicode Text Symbols JSON
+# Unicode Text Symbols JSON Dataset
 
-A free JSON dataset of Unicode symbols, including characters, hex values, and names.  
+This repository provides a free JSON dataset of **Unicode text symbols** with their characters, hex values, and descriptive names.  
+It is designed for developers, designers, and researchers who need easy access to a structured list of symbols for applications, websites, or research projects.
 
 👉 Explore more Unicode and text symbols at [SymbolSelect.com/text-symbols](https://www.symbolselect.com/text-symbols/)
 
 ---
 
-## Why This Repo?
-This dataset was created to help developers, designers, and researchers easily access Unicode text symbols in a structured JSON format.
+## 📂 Dataset Structure
 
-## Example Entry
+Each entry in the dataset has three main keys:  
+
 ```json
 {
   "key": "!",
